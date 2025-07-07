@@ -24,19 +24,10 @@ Numpy, Matplotlib
 
 NLTK (for tokenization)
 
-🗂️ File Structure
-model.ipynb: Main training and prediction notebook
-
-model/: Saved trained model & history
-
-data/: Training corpus
-
-requirements.txt: Libraries used
-
 🚀 How to Use
 Clone repo
 
-Open model.ipynb in Jupyter/Colab
+Open Next_Word_Prediction_Model_By_Richard.ipynb in Jupyter/Colab
 
 Run all cells to train or use pre-trained model
 
