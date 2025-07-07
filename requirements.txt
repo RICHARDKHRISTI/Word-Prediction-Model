@@ -1,0 +1,6 @@
+```txt
+tensorflow
+keras
+numpy
+matplotlib
+nltk
