@@ -9,12 +9,6 @@ This project is an LSTM-based **Next Word Predictor** trained on *The Adventures
 - Predicts top next word suggestions for any sentence
 - Clean, well-commented code for learning
 
-## 💡 Sample Prediction
-
-```python
-Prompt: "holmes looked at the"
-Predicted Next Words: ['of', 'and', 'to', 'i', 'which']
-
 🧠 Tech Stack
 Python (Colab)
 
@@ -33,3 +27,11 @@ Run all cells to train or use pre-trained model
 
 📘 Data Source
 Text: Project Gutenberg - The Adventures of Sherlock Holmes
+
+## 💡 Sample Prediction
+
+```python
+Prompt: "holmes looked at the"
+Predicted Next Words: ['of', 'and', 'to', 'i', 'which']
+
+
